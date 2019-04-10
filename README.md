@@ -12,7 +12,7 @@ _Use of Javascript objects and event delegation to build an Address Book_
 
 * _Clone from GitHub_
 * _Open index.html_
- * _Alternatively, launch [https://marclignarius.github.io/week3proj](https://marclignarius.github.io/week3proj/)_
+ * _Alternatively, launch [https://marclignarius.github.io/addressbook](https://marclignarius.github.io/addressbook/)_
 
 ## Specs
 
